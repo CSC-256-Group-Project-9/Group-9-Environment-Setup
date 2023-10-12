@@ -12,7 +12,7 @@ This repository contains the information and resources needed to set up the envi
 
 - [Getting Started](https://github.com/CSC-256-Group-Project-9/Group-9-Environment-Setup/blob/main/For-Students/getting-started.md) - First time setup instructions for students to follow before completing and labs.
 
-- [Pre-Lab Instructions Template](https://github.com/CSC-256-Group-Project-9/Group-9-Environment-Setup/blob/main/getting-started.md) - A template for documentors to use for adding pre-lab instructions.
+- [Pre-Lab Instructions Template](https://github.com/CSC-256-Group-Project-9/Group-9-Environment-Setup/blob/main/pre-lab-instructions-template.md) - A template for documentors to use for adding pre-lab instructions.
 
 ## Notes
 
