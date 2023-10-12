@@ -6,7 +6,7 @@
 
 <hr>
 
-This repository contains the information and resources needed to set up the environment that will be used for upcoming labs. The [For-Students](https://github.com/CSC-256-Group-Project-9/Group-9-Selenium-Lab/tree/main/For-Students) folder contains documents and resources that are to be delivered to students.
+This repository contains the information and resources needed to set up the environment that will be used for upcoming labs. The [For-Students](https://github.com/CSC-256-Group-Project-9/Group-9-Environment-Setup/tree/main/For-Students) folder contains documents and resources that are to be delivered to students.
 
 ## Getting Started
 
